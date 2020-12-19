@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1607148367 source:c:\users\mrgha\google drive\die_tryout\battlecatstat.cpp
+	"battlecatStat.hpp"
+
+1607147983 c:\users\mrgha\google drive\die_tryout\battlecatstat.hpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<bits/stdc++.h>
+
+1514140574 source:c:\users\mrgha\documents\codeblocks projects\battle cats game\main.cpp
+	<iostream>
+
+1607309714 source:c:\users\mrgha\documents\codeblocks projects\battle cats game\battlecatstat.cpp
+	"battlecatStat.hpp"
+
+1607309763 c:\users\mrgha\documents\codeblocks projects\battle cats game\battlecatstat.hpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<bits/stdc++.h>
+
